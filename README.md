@@ -24,7 +24,7 @@ Task List Application is a simple yet powerful tool designed to help users **org
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-org/task-list-app.git
+   https://github.com/T-Lanojika/TaskListApplication.git
    ```
 2. Open the solution file in **Visual Studio**:
    ```sh
